@@ -4,7 +4,7 @@ String Cor;
 int Tamanho;
 String Marca;
 int Status;
-}
+
 
 void ligar(){
 if(Status == 1)
@@ -29,3 +29,4 @@ else
 {
   Status= 1;
 }}
+}
